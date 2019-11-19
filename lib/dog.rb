@@ -3,7 +3,7 @@ class Dog
   def bark
     puts "Woof!"
   end
-  def dit
+  def sit
     puts "The Dog is sitting"
   end 
   
